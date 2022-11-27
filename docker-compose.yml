@@ -1,0 +1,14 @@
+#neede for new container For more information: https://www.youtube.com/watch?v=2Bxh5FNGznQ
+
+# # For more information: https://laravel.com/docs/sail
+# version: "3" # docker version
+# services:
+#     www:
+#         image: php:apache
+#         volumes:
+#             - './:/var/www/html' # sync project dir with container web dir
+#         ports:
+#             - 80:80
+#             - 443:433 # for future ssl traffic
+        
+        
